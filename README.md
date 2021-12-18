@@ -10,6 +10,7 @@ You need to install Apache2.
 
 PIP Install:
 twilio
+requests
 
 
 
