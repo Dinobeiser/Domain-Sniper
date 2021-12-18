@@ -9,8 +9,7 @@ Memory: ~256 MB
 You need to install Apache2.
 
 PIP Install:
-twilio
-requests
+twilio, requests
 
 
 
